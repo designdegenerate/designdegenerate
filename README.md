@@ -1,4 +1,4 @@
-## Hallo, I am Laurens
+**Hallo, I am Laurens!**
 
 ### About
 Full-stack developer with a love of solving user problems trough code; always open to new experiences, challenges, and seeing things trough different perspectives, product matters more than the individual.
@@ -32,7 +32,8 @@ TODO: Add icons
 #### Linktomyself
 (add image here)
 
-Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with dark mode support with a selection of color schemes for personalization.
+Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with dark mode support with a selection of color schemes for personalization. I’m currently working on launching it.
+
 [View this project](https://github.com/designdegenerate/linktomyself-frontend)
 
 #### What if We Designed Novels?
