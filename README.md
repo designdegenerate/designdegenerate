@@ -6,10 +6,7 @@ I am Dutch person that lived in Vancouver, Canada for 13 years, and returned bac
 
 Recently, I’ve completed the intensive Full-Stack Development Bootcamp at [Codaisseur](https://codaisseur.com/) where I learned modern web development centered around React and Node.js.
 
-I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://ecuad.ca/). I have experience with startups work doing some UI and Branding.  
-
-[Design Portfolio](https://laurensdesign.design)  
-(I designed and coded it from scratch using a static site generator)  
+I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://ecuad.ca/). I have experience with startups work doing some UI and Branding: [Design Portfolio](https://laurensdesign.design) (I also designed and coded it from scratch)  
 
 ## Tech Stack
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/javascript.svg)
