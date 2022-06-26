@@ -8,7 +8,9 @@ Recently, I’ve completed the intensive Full-Stack Development Bootcamp at [Cod
 
 I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://ecuad.ca/). I have experience with startups work doing some UI and Branding: [Design Portfolio](https://laurensdesign.design) (I also designed and coded it from scratch)  
 
-## Tech Stack
+## Tech Stack and Tools
+
+### Tech
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/javascript.svg)
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/react.svg)
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/postgresql.svg)
@@ -19,13 +21,13 @@ I’ve also self-taught myself UI design and completed a bachelor degree in Comm
 
 (Javascript, React+Redux, PostgreSQL, MongoDB, Node.js, Sass)
 
-## Design Tools
+### Design Tools
 Figma, Sketch, Adobe Creative Cloud Suite, Branding, UI/UX, Publication
 
 ## Projects
 
 ### Linktomyself
-Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with dark mode support with a selection of color schemes for personalization. I’m currently working on launching it.  
+Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with a selection of color schemes for personalization. I’m currently working on launching it.  
 
 [View this project](https://github.com/designdegenerate/linktomyself-frontend)
 
