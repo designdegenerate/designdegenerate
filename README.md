@@ -20,11 +20,7 @@ I’ve also self-taught myself UI design and completed a bachelor degree in Comm
 (Javascript, React+Redux, PostgreSQL, MongoDB, Node.js, Sass)
 
 ## Design Tools
-- Figma, Sketch, and Adobe XD.
-- Adobe Creative Cloud Suite
-- Branding
-- UI/UX
-- Publication
+Figma, Sketch, Adobe Creative Cloud Suite, Branding, UI/UX, Publication
 
 ## Projects
 
