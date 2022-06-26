@@ -12,12 +12,15 @@ I’ve also self-taught myself UI design and completed a bachelor degree in Comm
 (I designed and coded it from scratch using a static site generator)  
 
 ## Tech Stack
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/javascript.png) Javascript
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/react.png) React + Redux
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/postgresql.png) PostgreSQL (+ Sequelize)
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/mongodb.png) MongoDB (+ Mongoose)
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/nodedotjs.png) Node.js
-- ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/sass.png) Sass
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/javascript.svg)
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/react.svg)
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/postgresql.svg)
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/mongodb.svg)
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/nodedotjs.svg)
+![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/sass.svg)
+
+
+(Javascript, React+Redux, PostgreSQL, MongoDB, Node.js, Sass)
 
 ## Design Tools
 - Figma, Sketch, and Adobe XD.
