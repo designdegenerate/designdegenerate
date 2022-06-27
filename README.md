@@ -1,12 +1,12 @@
 ## Hello everyone, I’m Laurens!
 
-Full-stack developer with a love of solving user problems trough code; always open to new experiences, challenges, and seeing things trough different perspectives, product matters more than the individual.
+Full-stack developer with a love of solving user problems through code; always open to new experiences, challenges, and seeing things trough different perspectives, product matters more than the individual.
 
-I am Dutch person that lived in Vancouver, Canada for 13 years, and returned back to call Amsterdam my home. Helaas, mijn Nederlands is meer basis 😅.
+I am a Dutch person that lived in Vancouver, Canada for 13 years, and returned back to call Amsterdam my home. (Helaas, mijn Nederlands is meer basis 😅).
 
 Recently, I’ve completed the intensive Full-Stack Development Bootcamp at [Codaisseur](https://codaisseur.com/) where I learned modern web development centered around React and Node.js.
 
-I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://ecuad.ca/). I have experience with startups work doing Branding and UI: [Design Portfolio](https://laurensdesign.design) (This I also coded from scratch)  
+I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://www.ecuad.ca/). I have experience with startups work doing Branding and UI: [Design Portfolio](https://laurensdesign.design) (This I also coded from scratch)  
 
 ## Tech Stack and Tools
 
