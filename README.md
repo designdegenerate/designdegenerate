@@ -35,11 +35,17 @@ Linktomyself is a public homepage in a world where our digital life is spread ac
 
 [View this project](https://github.com/designdegenerate/linktomyself-frontend)
 
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/linktomyself.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/linktomyself.png" alt="" width="50%" />
+</p>
+
 
 ### What if We Designed Novels?
 An project about experimental e-books built and designed using web technologies as opposed to being merely formatted. Three samples were designed and developed, which integrated advanced typography, animation, and seamless illustrations.  
 
 [View this project](https://laurensdesign.design/work/webnovels)
 
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/webnovels.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/webnovels.png" alt="" width="50%" />
+</p>
