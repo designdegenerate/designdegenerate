@@ -18,8 +18,12 @@ I’ve also self-taught myself UI design and completed a bachelor degree in Comm
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/nodedotjs.svg)
 ![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/sass.svg)
 
-
-(Javascript, React+Redux, PostgreSQL, MongoDB, Node.js, Sass)
+- Javascript
+- React+Redux
+- PostgreSQL
+- MongoDB
+- Node.js
+- Sass
 
 ### Design Tools
 Figma, Sketch, Adobe Creative Cloud Suite, Branding, UI/UX, Publication
