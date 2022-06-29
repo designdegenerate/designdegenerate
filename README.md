@@ -37,7 +37,7 @@ Linktomyself is a public homepage in a world where our digital life is spread ac
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/linktomyself.png" alt="" width="50%" />
+  <img src="https://raw.githubusercontent.com/designdegenerate/linktomyself-frontend/45cfcd9b2830c9369865664e053af8f817ec1bc2/screenshots/linktomyself.png" alt="" width="50%" />
 </p>
 
 
@@ -47,5 +47,5 @@ An project about experimental e-books built and designed using web technologies 
 [View this project](https://laurensdesign.design/work/webnovels)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/webnovels.png" alt="" width="50%" />
+  <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/webnovels.png" alt="" width="75%" />
 </p>
