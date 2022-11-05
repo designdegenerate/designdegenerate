@@ -33,7 +33,6 @@ Figma, Sketch, Adobe Creative Cloud Suite, Branding, UI/UX, Publication
 ### Linktomyself
 Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with a selection of color schemes for personalization
 
-[View this project](https://linktomyself.com)
  — [View the code](https://github.com/designdegenerate/linktomyself-frontend)
 
 
