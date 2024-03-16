@@ -1,37 +1,31 @@
-## Hello everyone, I’m Laurens!
+## Hello everyone, I’m Amalie!
 
 Full-stack developer with a love of solving user problems through code; always open to new experiences, challenges, and seeing things trough different perspectives, product matters more than the individual.
 
-I am a Dutch person that lived in Vancouver, Canada for 13 years, and returned back to call Amsterdam my home. (Helaas, mijn Nederlands is meer basis 😅).
-
-Recently, I’ve completed the intensive Full-Stack Development Bootcamp at [Codaisseur](https://codaisseur.com/) where I learned modern web development centered around React and Node.js.
+I studied Full-Stack Development Bootcamp at [Codaisseur](https://codaisseur.com/).
 
 I’ve also self-taught myself UI design and completed a bachelor degree in Communication Design (Graphic Design) from [Emily Carr University of Art + Design](https://www.ecuad.ca/). I have experience with startups work doing Branding and UI: [Design Portfolio](https://laurensdesign.design) (This I also coded from scratch)  
 
 ## Tech Stack and Tools
 
 ### Tech
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/javascript.svg)
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/react.svg)
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/postgresql.svg)
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/mongodb.svg)
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/nodedotjs.svg)
-![](https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/icons/sass.svg)
-
-- Javascript
+- Javascript/Typescript
+- Golang
 - React+Redux
+- Angular
 - PostgreSQL
 - MongoDB
 - Node.js
 - Sass
+- Tailwind
 
 ### Design Tools
 Figma, Sketch, Adobe Creative Cloud Suite, Branding, UI/UX, Publication
 
-## Projects
+## (Some old) Projects
 
 ### Linktomyself
-Linktomyself is a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with a selection of color schemes for personalization
+Linktomyself was a public homepage in a world where our digital life is spread across multiple platforms. Instead of replicating features of other services, it focuses solely on the most essential: name, bio, a list of links, and a gallery of favourite things such as Movies or Books with an optional link to a dedicated social platform (e.g IMDB, GoodReads). It has a clean and fully responsive design with a selection of color schemes for personalization
 
  — [View the code](https://github.com/designdegenerate/linktomyself-frontend)
 
