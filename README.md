@@ -46,7 +46,7 @@ Freezerdoor is a digital clone of the defunct [Top Gear™ Cool Wall](https://ww
 ### What if We Designed Novels?
 An project about experimental e-books built and designed using web technologies as opposed to being merely formatted. Three samples were designed and developed, which integrated advanced typography, animation, and seamless illustrations.  
 
-[View this project](https://laurensdesign.design/work/webnovels)
+[View this project](https://amalie.design/work/webnovels)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/designdegenerate/designdegenerate/main/screenshots/webnovels.png" alt="" width="75%" />
